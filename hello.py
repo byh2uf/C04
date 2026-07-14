@@ -36,7 +36,7 @@ def main():
 
     # As of right now it'll just print out whatever number/input you put in. 
     # Not restricted from 1-10. To fix this just use an if/else statement.
-    print(f"\n{input_num}")
+    print(f"\nYou entered the number: {input_num}")
 
 
 #Call the main function
